@@ -1,0 +1,68 @@
+{
+  "id": "cpp",
+  "title": "C++",
+  "tagline": "Learn modern C++ from first principles",
+  "source": "Lesson topics follow learncpp.com. The text is written independently; read the original site for even more depth.",
+  "language": "cpp",
+  "chapters": [
+    {
+      "id": "1",
+      "title": "C++ Basics",
+      "lessons": [
+        { "id": "1.1", "title": "Statements and the structure of a program" },
+        { "id": "1.2", "title": "Comments" },
+        { "id": "1.3", "title": "Introduction to objects and variables" },
+        { "id": "1.4", "title": "Variable assignment and initialization" },
+        { "id": "1.5", "title": "Introduction to iostream: cout, cin, and endl" },
+        { "id": "1.6", "title": "Uninitialized variables and undefined behavior" },
+        { "id": "1.7", "title": "Keywords and naming identifiers" },
+        { "id": "1.8", "title": "Whitespace and basic formatting" },
+        { "id": "1.9", "title": "Introduction to literals and operators" },
+        { "id": "1.10", "title": "Introduction to expressions" },
+        { "id": "1.11", "title": "Developing your first program" }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Functions and Files",
+      "lessons": [
+        { "id": "2.1", "title": "Introduction to functions" },
+        { "id": "2.2", "title": "Function return values (value-returning functions)" },
+        { "id": "2.3", "title": "Void functions (non-value returning functions)" },
+        { "id": "2.4", "title": "Introduction to function parameters and arguments" },
+        { "id": "2.5", "title": "Introduction to local scope" },
+        { "id": "2.6", "title": "Why functions are useful, and how to use them effectively" },
+        { "id": "2.7", "title": "Forward declarations and definitions" },
+        { "id": "2.8", "title": "Programs with multiple code files" },
+        { "id": "2.9", "title": "Naming collisions and an introduction to namespaces" },
+        { "id": "2.10", "title": "Introduction to the preprocessor" },
+        { "id": "2.11", "title": "Header files" },
+        { "id": "2.12", "title": "Header guards" },
+        { "id": "2.13", "title": "How to design your first programs" }
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Debugging C++ Programs",
+      "lessons": [
+        { "id": "3.1", "title": "Syntax and semantic errors" },
+        { "id": "3.2", "title": "The debugging process" },
+        { "id": "3.3", "title": "A strategy for debugging" },
+        { "id": "3.4", "title": "Basic debugging tactics" },
+        { "id": "3.5", "title": "More debugging tactics" },
+        { "id": "3.6", "title": "Using an integrated debugger: Stepping" },
+        { "id": "3.7", "title": "Using an integrated debugger: Running and breakpoints" },
+        { "id": "3.8", "title": "Using an integrated debugger: Watching variables" },
+        { "id": "3.9", "title": "Using an integrated debugger: The call stack" },
+        { "id": "3.10", "title": "Finding issues before they become problems" }
+      ]
+    }
+  ],
+  "upcoming": [
+    "Chapter 4: Fundamental data types",
+    "Chapter 5: Constants and strings",
+    "Chapter 6: Operators",
+    "Chapter 7: Scope, duration, and linkage",
+    "Chapter 8: Control flow and error detection"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "name": "codetrail",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Hyperskill-style Android app for learning programming languages (phase 1: C++)",
+  "scripts": {
+    "build:content": "node tools/build-content.js",
+    "test": "node tools/build-content.js && node tests/interp.test.js && node tests/content.test.js",
+    "android:add": "cap add android",
+    "android:sync": "cap sync android",
+    "android:open": "cap open android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^7.0.0",
+    "@capacitor/cli": "^7.0.0",
+    "@capacitor/core": "^7.0.0"
+  }
+}

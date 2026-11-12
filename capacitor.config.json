@@ -1,0 +1,8 @@
+{
+  "appId": "com.codetrail.app",
+  "appName": "CodeTrail",
+  "webDir": "www",
+  "android": {
+    "allowMixedContent": false
+  }
+}
